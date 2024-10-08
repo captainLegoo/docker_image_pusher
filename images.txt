@@ -1,6 +1,6 @@
 jenkins/jenkins:2.439
 openjdk:8-jre-slim
-portainer:latest
+portainer/portainer-ce
 mysql:8.0.32
 phpmyadmin:5.2.1
 redis:6.2
