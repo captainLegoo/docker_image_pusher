@@ -40,3 +40,4 @@ spryker/redis-commander:0.8.0
 phpmyadmin:5.2.1
 mongo:4.4
 echo21bash/kafka-eagle:3.0.2
+coopersoft/canal-adapter:v1.1.6
