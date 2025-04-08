@@ -1,1 +1,1 @@
-dpage/pgadmin4:9.1.0
+docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
