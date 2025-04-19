@@ -1,1 +1,2 @@
-caddy
+apache/rocketmq:5.1.4
+apacherocketmq/rocketmq-dashboard:1.0.0
