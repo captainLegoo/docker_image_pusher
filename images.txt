@@ -1,2 +1,1 @@
-apache/rocketmq:4.9.4
-apacherocketmq/rocketmq-dashboard:latest
+postgres:15
